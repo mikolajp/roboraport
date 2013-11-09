@@ -1,7 +1,7 @@
 roboraport
 ==========
 
-Roboraport is a collection of python programs automating creation of weekly physics laboratory raports.
+Roboraport is a collection of python programs automating creation of weekly physics laboratory reports.
 
 !!! WARNING for students of Faculty of Physics University of Warsaw !!!
 
