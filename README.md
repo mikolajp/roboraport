@@ -11,5 +11,3 @@ the owner of this repository will fully cooperate* with University authorities i
 use of programs contained here. The purpose of this repository is illustrative.
 
 Refer to GPLv3 license source to find out requierements of sharing the modified programs.
-
-*If notified by authorities ;-)
